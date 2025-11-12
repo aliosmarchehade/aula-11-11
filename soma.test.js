@@ -3,5 +3,5 @@ function soma (a, b){
 }
 
 test ( "Deve se somar dois numeros", ()=>{
-    expect (soma(1,2)).toBe(3)
+    expect (soma(1,2)).toBe(31)
 } )
